@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_3d_Taxopark", "Task_3d_Taxopark\Task_3d_Taxopark.csproj", "{535AA42A-6A33-49B1-99DB-39728F22697B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535AA42A-6A33-49B1-99DB-39728F22697B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535AA42A-6A33-49B1-99DB-39728F22697B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535AA42A-6A33-49B1-99DB-39728F22697B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535AA42A-6A33-49B1-99DB-39728F22697B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC0C1E5-ED74-44FA-951E-33D0D2CB2BE5}
+	EndGlobalSection
+EndGlobal
